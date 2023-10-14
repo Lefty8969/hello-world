@@ -20,25 +20,40 @@ img{
      background-color: firebrick;  
      font-size: larger;
      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    
-     border: none;
-     border-radius: 10px;
+     font-weight: bolder;
+     border-radius: 10px; 
      cursor: pointer;
      margin-left: 210;
      padding-top: 10px;
      padding-bottom: 10px;
      padding-left: 50px;
      padding-right: 50px;
-     font-weight: bold;
     
-    }
+     }
+
+
+
+
+
 
     p{
         text-align: center;
         font-size: 1rem;
         font-weight: bolder;
     }
-     
+
+    #location{
+        margin-left: 600px;
+        font-size: larger;
+        font-weight: bolder;
+    }
+
+    #links{
+        margin-left: 100px;
+        color: midnightblue;
+    }
+
+  
 
 
      
